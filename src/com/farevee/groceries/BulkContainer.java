@@ -1,5 +1,11 @@
 package com.farevee.groceries;
 
+/**
+ * 
+ * @author greenber17
+ * Looked over Zoe's code to understand how to go about
+ * and get started on these problems (Part C).
+ */
 public class BulkContainer
     extends BulkItem
 {
