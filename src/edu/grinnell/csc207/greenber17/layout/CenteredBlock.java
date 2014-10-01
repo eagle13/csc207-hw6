@@ -16,9 +16,9 @@ public class CenteredBlock
 
   /*
    * Centers the text within a TextBlock
-   * spacesStart finds how many spaces should be added before
+   * spacesBefore finds how many spaces should be added before
    *    the word
-   * spacesEnd finds how many spaces after the word
+   * spacesAfter finds how many spaces after the word
    * returns a TextBlock that is centered within a BoxedBlock
    * @pre length of the TextBlock has to be less than the 
    *      width entered
